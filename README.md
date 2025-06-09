@@ -7,7 +7,7 @@ This project is a machine learning-based web application that predicts whether a
 ## 🚀 Features
 
 - Predicts diabetes (positive/negative) using user input
-- Trained using standard ML models (e.g., Logistic Regression, Random Forest, etc.)
+- Trained using standard ML models 
 - Simple and responsive web form interface
 - Easily deployable with Flask
 - Extendable for cloud deployment (Heroku, Render, etc.)
@@ -16,7 +16,7 @@ This project is a machine learning-based web application that predicts whether a
 
 ## 🧠 Machine Learning
 
-- **Algorithm Used**: Logistic Regression (you can swap with others)
+- **Algorithm Used**: KNN
 - **Evaluation Metrics**: Accuracy, Confusion Matrix, Precision/Recall
 - **Preprocessing**:
   - Handling missing values (0s replaced with NaN)
